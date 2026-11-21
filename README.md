@@ -1,4 +1,4 @@
-<p align="center"><img src="./logo.png" alt="WinDroid 软件标志" height="64" align="middle"> &emsp;│&emsp; <a href="https://github.com/Chiyang001"><img src="./developer.png" alt="炽小阳开发者标志" height="64" align="middle"></a></p>
+<p align="center"><img src="./design/windroid-launcher.svg" alt="WinDroid 启动图标" height="64" align="middle"> &emsp;│&emsp; <a href="https://github.com/Chiyang001"><img src="./developer.png" alt="炽小阳开发者标志" height="64" align="middle"></a></p>
 
 <h1 align="center">WinDroid</h1>
 
