@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="WinDroid 一键运行">
+  <rect width="128" height="128" rx="29" fill="#FF775E"/>
+  <path d="M40 25h32l25 25v43a10 10 0 0 1-10 10H40a10 10 0 0 1-10-10V35a10 10 0 0 1 10-10zm15 34a3 3 0 0 0-5 3v21a3 3 0 0 0 5 3l20-10a4 4 0 0 0 0-7z" fill="#481D23" fill-rule="evenodd"/>
+  <path d="M72 25v18a7 7 0 0 0 7 7h18z" fill="#FFB9A0"/>
+</svg>

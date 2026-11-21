@@ -1,0 +1,122 @@
+[
+    {
+        "name" : "Programs",
+        "nameZh" : "程序",
+        "children" : [
+            {
+                "name" : "7-Zip",
+                "path" : "Z:/opt/apps/7-Zip/7zFM.exe"
+            },
+            {
+                "name" : "Internet Explorer",
+                "path" : "C:/windows/system32/iexplore.exe"
+            },
+            {
+                "name" : "Notepad",
+                "nameZh" : "记事本",
+                "path" : "C:/windows/notepad.exe"
+            },
+            {
+                "name" : "Wordpad",
+                "nameZh" : "写字板",
+                "path" : "C:/windows/system32/write.exe",
+                "iconLocation" : "Z:/opt/wine/lib/wine/i386-windows/wordpad.exe"
+            },
+            {
+                "name" : "Games",
+                "nameZh" : "游戏",
+                "children" : [
+                    {
+                        "name" : "WineMine",
+                        "nameZh" : "扫雷",
+                        "path" : "C:/windows/system32/winemine.exe"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name" : "System Tools",
+        "nameZh" : "系统工具",
+        "children" : [
+            {
+                "name" : "GPUInfo",
+                "nameZh" : "显卡信息",
+                "path" : "Z:/opt/apps/GPUInfo.exe"
+            },
+            {
+                "name" : "Test Direct3D",
+                "nameZh" : "测试 Direct3D",
+                "path" : "Z:/opt/apps/TestD3D.exe"
+            },
+            {
+                "name" : "Computer",
+                "nameZh" : "计算机",
+                "pathZh" : "C:/windows/wfm-zh.exe",
+                "path" : "C:/windows/wfm.exe"
+            },
+            {
+                "name" : "Task Manager",
+                "nameZh" : "任务管理器",
+                "path" : "C:/windows/system32/taskmgr.exe"
+            },
+            {
+                "name" : "Registry Editor",
+                "nameZh" : "注册表编辑器",
+                "path" : "C:/windows/regedit.exe"
+            },
+            {
+                "name" : "Command Prompt",
+                "nameZh" : "命令提示符",
+                "path" : "C:/windows/system32/cmd.exe"
+            },
+            {
+                "name" : "Wine Configuration",
+                "nameZh" : "Wine 配置",
+                "path" : "C:/windows/system32/winecfg.exe"
+            },
+            {
+                "name" : "Add or Remove Programs",
+                "nameZh" : "添加或删除程序",
+                "path" : "C:/windows/system32/control.exe",
+                "cmdArgs" : "appwiz.cpl"
+            },
+            {
+                "name" : "Installers",
+                "nameZh" : "安装程序",
+                "children" : [
+                    {
+                        "name" : "Wine Mono (.NET Framework)",
+                        "nameZh" : "安装 Wine Mono（.NET Framework）",
+                        "path" : "C:/windows/system32/control.exe",
+                        "cmdArgs" : "appwiz.cpl install_mono",
+                        "iconLocation" : "shell32.dll",
+                        "iconIndex" : -25
+                    },
+                    {
+                        "name" : "Wine Gecko (64-bit)",
+                        "nameZh" : "安装 Wine Gecko（64 位）",
+                        "path" : "C:/windows/system32/control.exe",
+                        "cmdArgs" : "appwiz.cpl install_gecko",
+                        "iconLocation" : "shell32.dll",
+                        "iconIndex" : -25
+                    },
+                    {
+                        "name" : "Wine Gecko (32-bit)",
+                        "nameZh" : "安装 Wine Gecko（32 位）",
+                        "path" : "C:/windows/syswow64/control.exe",
+                        "cmdArgs" : "appwiz.cpl install_gecko",
+                        "iconLocation" : "shell32.dll",
+                        "iconIndex" : -25
+                    },
+                    {
+                        "name" : "Steam (Legacy)",
+                        "nameZh" : "Steam（旧版）",
+                        "path" : "Z:/opt/apps/winaddons.exe",
+                        "cmdArgs" : "-n \"Steam (Legacy)\" -d \"Steam\" -e \"steam.exe\""
+                    }
+                ]
+            }
+        ]
+    }
+]

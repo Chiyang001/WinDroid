@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center the artwork from 01-pocket-window-bw.svg inside the adaptive icon safe zone. -->
+    <group
+        android:pivotX="61"
+        android:pivotY="64"
+        android:scaleX="0.64"
+        android:scaleY="0.64"
+        android:translateX="-7"
+        android:translateY="-10">
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="8"
+            android:strokeLineCap="round"
+            android:pathData="M70 36v-1c0-6-5-11-11-11H39c-6 0-11 5-11 11v58c0 6 5 11 11 11h20c6 0 11-5 11-11v-1" />
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="4"
+            android:strokeLineCap="round"
+            android:pathData="M45 93h8" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M49 51.42 A4 4 0 0 1 52.38 47.47 L63.38 45.73 A4 4 0 0 1 68 49.68 V58 A4 4 0 0 1 64 62 H53 A4 4 0 0 1 49 58 Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M74 47.41 A4 4 0 0 1 77.37 43.46 L94.37 40.74 A4 4 0 0 1 99 44.69 V58 A4 4 0 0 1 95 62 H78 A4 4 0 0 1 74 58 Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M49 72 A4 4 0 0 1 53 68 H64 A4 4 0 0 1 68 72 V80.32 A4 4 0 0 1 63.38 84.27 L52.38 82.53 A4 4 0 0 1 49 78.58 Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M74 72 A4 4 0 0 1 78 68 H95 A4 4 0 0 1 99 72 V85.31 A4 4 0 0 1 94.37 89.26 L77.37 86.54 A4 4 0 0 1 74 82.59 Z" />
+    </group>
+</vector>

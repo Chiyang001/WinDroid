@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="WinDroid 终端小机灵">
+  <rect width="128" height="128" rx="29" fill="#DBF56C"/>
+  <path d="m65 49 10-18" fill="none" stroke="#263612" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="77" cy="28" r="6" fill="#263612"/>
+  <path d="M22 70c0-16 13-29 29-29h26c16 0 29 13 29 29v10c0 11-9 20-20 20H42c-11 0-20-9-20-20z" fill="#263612"/>
+  <path d="m43 61 11 10-11 10m26 0h16" fill="none" stroke="#DBF56C" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

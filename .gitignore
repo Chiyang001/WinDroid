@@ -1,0 +1,24 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/app/build/
+/dist/
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+__pycache__/
+*.pyc
+*.jks
+*.keystore
+*.p12
+*.pfx
+
+# Local copies of third-party runtime artifacts.
+/app/src/main/assets/**/*.tzst
+/app/src/main/assets/soundfont/*.sf2
+/app/src/main/assets/windroid/offline-runtimes/
+/app/src/main/jniLibs/**/*.so

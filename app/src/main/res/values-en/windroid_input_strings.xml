@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wd_input_preferences">Input preferences</string>
+    <string name="windroid_input_pointer_mode">Mouse pointer</string>
+    <string name="windroid_input_direct">Direct touch</string>
+    <string name="windroid_input_direct_detail">Tap or double-tap to move the pointer to that spot and left-click.</string>
+    <string name="windroid_input_trackpad">Virtual trackpad</string>
+    <string name="windroid_input_trackpad_detail">Swipe to move the pointer. Tap or double-tap to left-click. Hold, then drag to select or move items.</string>
+    <string name="windroid_input_long_press">Touch and hold to right-click. In virtual trackpad mode, lift your finger without moving it.</string>
+    <string name="windroid_input_left_button">Left</string>
+    <string name="windroid_input_right_button">Right</string>
+    <string name="windroid_input_wheel">Virtual scroll wheel</string>
+    <string name="windroid_input_show_left_button">Show left mouse button</string>
+    <string name="windroid_input_show_right_button">Show right mouse button</string>
+    <string name="windroid_input_show_wheel">Show scroll wheel</string>
+    <string name="windroid_input_wheel_detail">Drag the center thumb up or down to scroll.</string>
+    <string name="windroid_input_move_controls">Touch and hold a mouse button or the scroll wheel, then drag to move it.</string>
+    <string name="windroid_input_scroll_up">Scroll up</string>
+    <string name="windroid_input_scroll_down">Scroll down</string>
+    <string name="windroid_input_done">Done</string>
+</resources>

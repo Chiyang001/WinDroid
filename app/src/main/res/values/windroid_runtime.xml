@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="windroid_starting_program">正在打开 Windows 程序</string>
+    <string name="windroid_starting_desktop">正在启动 Windows 桌面</string>
+    <string name="windroid_updating_environment">正在更新运行环境</string>
+    <string name="windroid_keyboard">键盘</string>
+    <string name="windroid_keyboard_hide">收起键盘</string>
+    <string name="windroid_exit">退出</string>
+    <string name="windroid_dock_expand">展开运行工具</string>
+    <string name="windroid_dock_collapse">收起运行工具</string>
+    <string name="windroid_dock_other_side">移到另一侧</string>
+    <string name="windroid_runtime_session_active">请先退出正在运行的 Windows 程序。</string>
+    <string name="windroid_runtime_disk_unreadable">无法读取 Windows 磁盘。</string>
+    <string name="windroid_runtime_start_failed">无法启动 Windows 运行环境。</string>
+    <string name="windroid_runtime_no_window">程序未打开窗口，可能与当前运行环境不兼容。</string>
+    <string name="windroid_runtime_exit_code">Windows 程序异常退出（%1$d）。</string>
+    <string name="windroid_runtime_exit_install_title">退出安装窗口？</string>
+    <string name="windroid_runtime_exit_install_message">请先完成或取消 Windows 安装向导，再返回 WinDroid。</string>
+    <string name="windroid_runtime_continue_install">继续安装</string>
+    <string name="windroid_runtime_menu_controls">输入控制</string>
+    <string name="windroid_runtime_menu_fullscreen">切换全屏</string>
+    <string name="windroid_runtime_menu_tasks">任务管理器</string>
+    <string name="windroid_runtime_menu_windows">活动窗口</string>
+    <string name="windroid_runtime_menu_magnifier">放大镜</string>
+    <string name="windroid_runtime_menu_effects">屏幕效果</string>
+    <string name="windroid_runtime_menu_pip">画中画</string>
+    <string name="windroid_runtime_menu_logs">日志</string>
+    <string name="windroid_runtime_menu_touchpad">触控板帮助</string>
+
+    <style name="WinDroidRuntimeTheme" parent="AppThemeDark">
+        <item name="colorAccent">@color/windroid_secondary_text</item>
+        <item name="colorPrimary">@color/windroid_surface</item>
+        <item name="colorPrimaryDark">@color/windroid_window</item>
+        <item name="colorControlNormal">@color/windroid_secondary_text</item>
+        <item name="colorControlHighlight">@color/windroid_control_highlight</item>
+        <item name="colorPrimaryText">@color/windroid_primary_text</item>
+        <item name="colorSecondaryText">@color/windroid_secondary_text</item>
+        <item name="colorPrimarySurface">@color/windroid_window</item>
+        <item name="colorSecondarySurface">@color/windroid_surface</item>
+        <item name="colorPrimaryVariant">@color/windroid_secondary_text</item>
+        <item name="colorSecondaryVariant">@color/windroid_border</item>
+        <item name="alertDialogTheme">@style/WinDroidDialogTheme</item>
+        <item name="popupMenuBackground">@drawable/windroid_runtime_panel</item>
+        <item name="panelBackground">@drawable/windroid_runtime_panel</item>
+    </style>
+</resources>

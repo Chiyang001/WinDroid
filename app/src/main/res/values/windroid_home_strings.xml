@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wd_home_recent">最近打开</string>
+    <string name="wd_home_recent_empty">从软件页打开应用后，这里会显示最近记录。</string>
+    <string name="wd_home_favorites">常用应用</string>
+    <string name="wd_home_manage">管理</string>
+    <string name="wd_home_manage_favorites">管理首页常用应用</string>
+    <string name="wd_home_choose_favorites">选择要固定到首页的应用</string>
+    <string name="wd_home_no_apps">先从软件页添加应用，再固定到首页。</string>
+    <string name="wd_home_save_favorites">保存</string>
+    <string name="wd_home_restore_auto">恢复自动推荐</string>
+    <string name="wd_home_pin">固定到首页</string>
+    <string name="wd_home_unpin">取消首页固定</string>
+    <string name="wd_home_pinned">已固定到首页</string>
+    <string name="wd_home_unpinned">已取消首页固定</string>
+    <string name="wd_home_favorites_saved">已更新首页常用应用</string>
+</resources>

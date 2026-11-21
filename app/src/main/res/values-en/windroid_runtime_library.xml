@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wd_runtime_library">Runtime installation</string>
+    <string name="wd_runtime_select_packages">Enable or disable runtimes</string>
+    <string name="wd_runtime_install_selected">Apply changes</string>
+    <string name="wd_runtime_other_installers">More offline installers</string>
+    <string name="wd_runtime_disable_mono_first">Uncheck Wine Mono in the runtime list and apply the change before installing .NET Framework.</string>
+    <string name="wd_runtime_install_results">Runtime installation results</string>
+    <string name="wd_runtime_install_outcome">%1$s\n%2$s</string>
+    <string name="wd_runtime_install_cancelled">Installation cancelled.</string>
+    <string name="wd_runtime_install_skipped">The batch was cancelled before this item started.</string>
+    <string name="wd_runtime_mono">Wine Mono (.NET Framework compatibility)</string>
+    <string name="wd_runtime_gecko_x86">Wine Gecko (32-bit web component)</string>
+    <string name="wd_runtime_gecko_x64">Wine Gecko (64-bit web component)</string>
+    <string name="wd_runtime_vc12_x86">Visual C++ 2013 (x86)</string>
+    <string name="wd_runtime_vc12_x64">Visual C++ 2013 (x64)</string>
+    <string name="wd_runtime_vc14_x86">Visual C++ v14 (x86)</string>
+    <string name="wd_runtime_vc14_x64">Visual C++ v14 (x64)</string>
+    <string name="wd_runtime_desktop_x86">.NET Desktop Runtime (x86)</string>
+    <string name="wd_runtime_desktop_x64">.NET Desktop Runtime (x64)</string>
+    <string name="wd_runtime_package_label">%1$s · %2$s</string>
+    <string name="wd_runtime_bundled_components">Bundled components (select to use native DLLs)</string>
+    <string name="wd_runtime_vc">Microsoft Visual C++ Redistributables</string>
+    <string name="wd_runtime_vc_help">Choose the Visual C++ version your app requires. Use x86 for 32-bit apps and x64 for 64-bit apps. You can install both if you run both types of app.</string>
+    <string name="wd_runtime_framework">Microsoft .NET Framework</string>
+    <string name="wd_runtime_framework_help">Install Microsoft .NET Framework 4.8 (x86 and x64) from the APK. Disable Wine Mono in the runtime list before installing. Installation may take a few minutes.</string>
+    <string name="wd_runtime_desktop">Microsoft .NET Desktop Runtime</string>
+    <string name="wd_runtime_desktop_help">Choose the Windows Desktop Runtime major version your app requests and use the x86 or x64 installer that matches the app.</string>
+    <string name="wd_runtime_directx">DirectX legacy game runtimes</string>
+    <string name="wd_runtime_directx_help">D3DX, XAudio, and XACT are available under Bundled components. To use the Microsoft offline package, extract it onto the C drive, then run DXSETUP.exe from the extracted folder.</string>
+    <string name="wd_runtime_webview2">Microsoft Edge WebView2 Fixed Version (x64)</string>
+    <string name="wd_runtime_not_ready">Wait for the Windows environment to be ready.</string>
+    <string name="wd_runtime_preparing">Checking runtime installer…</string>
+    <string name="wd_runtime_extracting">Extracting offline installer %1$d%%</string>
+    <string name="wd_runtime_installing">Installing runtime…</string>
+    <string name="wd_runtime_disabling">Disabling runtime…</string>
+    <string name="wd_runtime_extract_failed">Could not read the bundled runtime installer. Check available storage and retry.</string>
+    <string name="wd_runtime_checksum_failed">The bundled runtime installer failed verification.</string>
+    <string name="wd_runtime_installed">Installed.</string>
+    <string name="wd_runtime_disabled">Disabled.</string>
+    <string name="wd_runtime_installer_finished">The offline installer finished.</string>
+    <string name="wd_runtime_state_not_confirmed">The installer exited. The selected state could not be confirmed.</string>
+    <string name="wd_runtime_msi_install_failed">Windows installer failed (exit status %1$d).</string>
+    <string name="wd_runtime_exit_missing">The installer did not report a Windows exit code (Android process status %1$d).</string>
+    <string name="wd_error_msi_invalid">The selected file is damaged or could not be recognized as a Windows MSI installer.</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wd_oss_title">Open-source components</string>
+    <string name="wd_oss_runtime">Runtime</string>
+    <string name="wd_oss_graphics">Graphics and compatibility</string>
+    <string name="wd_oss_android">Android libraries and fonts</string>
+    <string name="wd_oss_collapsed">Collapsed</string>
+    <string name="wd_oss_expanded">Expanded</string>
+    <string name="wd_oss_winlator">Upstream runtime and part of the Android codebase</string>
+    <string name="wd_oss_wine">Windows compatibility layer bundled as a custom Winlator build</string>
+    <string name="wd_oss_box64">Instruction translation for running x86-64 applications on ARM64</string>
+    <string name="wd_oss_glibc">GNU C library porting patches for the runtime</string>
+    <string name="wd_oss_mesa">Turnip, Zink, and VirGL graphics components</string>
+    <string name="wd_oss_dxvk">Translates Direct3D calls to Vulkan</string>
+    <string name="wd_oss_d7vk">Vulkan implementation of early Direct3D APIs</string>
+    <string name="wd_oss_d8vk">Translates Direct3D 8 to Vulkan</string>
+    <string name="wd_oss_vkd3d">Translates Direct3D 12 to Vulkan</string>
+    <string name="wd_oss_ddraw">DirectDraw compatibility for classic 2D software</string>
+    <string name="wd_oss_androidx">Android UI compatibility, preferences, and lifecycle libraries</string>
+    <string name="wd_oss_material">Material UI components for Android</string>
+    <string name="wd_oss_compress">Reads the archives used by the runtime</string>
+    <string name="wd_oss_xz">Reads and writes XZ-compressed data</string>
+    <string name="wd_oss_zstd">Zstandard compression support for Java</string>
+    <string name="wd_oss_noto">Simplified Chinese fallback font for Windows applications</string>
+</resources>

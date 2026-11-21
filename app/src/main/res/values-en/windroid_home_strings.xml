@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wd_home_recent">Recently opened</string>
+    <string name="wd_home_recent_empty">Open an app from Apps to see it here.</string>
+    <string name="wd_home_favorites">Favorites</string>
+    <string name="wd_home_manage">Manage</string>
+    <string name="wd_home_manage_favorites">Manage Home favorites</string>
+    <string name="wd_home_choose_favorites">Choose apps to pin to Home</string>
+    <string name="wd_home_no_apps">Add an app in Apps before pinning it to Home.</string>
+    <string name="wd_home_save_favorites">Save</string>
+    <string name="wd_home_restore_auto">Use suggestions</string>
+    <string name="wd_home_pin">Pin to WinDroid Home</string>
+    <string name="wd_home_unpin">Unpin from WinDroid Home</string>
+    <string name="wd_home_pinned">Pinned to WinDroid Home</string>
+    <string name="wd_home_unpinned">Unpinned from WinDroid Home</string>
+    <string name="wd_home_favorites_saved">Home favorites updated</string>
+</resources>

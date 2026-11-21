@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="windroid_starting_program">Opening Windows program</string>
+    <string name="windroid_starting_desktop">Starting the Windows desktop</string>
+    <string name="windroid_updating_environment">Updating the runtime</string>
+    <string name="windroid_keyboard">Keyboard</string>
+    <string name="windroid_keyboard_hide">Hide keyboard</string>
+    <string name="windroid_exit">Exit</string>
+    <string name="windroid_dock_expand">Show runtime tools</string>
+    <string name="windroid_dock_collapse">Hide runtime tools</string>
+    <string name="windroid_dock_other_side">Move to the other side</string>
+    <string name="windroid_runtime_session_active">Close the Windows program that is already running first.</string>
+    <string name="windroid_runtime_disk_unreadable">Could not read the Windows disk.</string>
+    <string name="windroid_runtime_start_failed">Could not start the Windows runtime.</string>
+    <string name="windroid_runtime_no_window">The program did not open a window. It may be incompatible with this runtime.</string>
+    <string name="windroid_runtime_exit_code">The Windows program closed with exit code %1$d.</string>
+    <string name="windroid_runtime_exit_install_title">Leave the installer?</string>
+    <string name="windroid_runtime_exit_install_message">Complete or cancel the Windows installer before returning to WinDroid.</string>
+    <string name="windroid_runtime_continue_install">Continue setup</string>
+    <string name="windroid_runtime_menu_controls">Input controls</string>
+    <string name="windroid_runtime_menu_fullscreen">Toggle full screen</string>
+    <string name="windroid_runtime_menu_tasks">Task manager</string>
+    <string name="windroid_runtime_menu_windows">Active windows</string>
+    <string name="windroid_runtime_menu_magnifier">Magnifier</string>
+    <string name="windroid_runtime_menu_effects">Screen effects</string>
+    <string name="windroid_runtime_menu_pip">Picture-in-picture</string>
+    <string name="windroid_runtime_menu_logs">Logs</string>
+    <string name="windroid_runtime_menu_touchpad">Touchpad help</string>
+</resources>

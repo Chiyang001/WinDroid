@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="windroid_window">#101010</color>
+    <color name="windroid_surface">#191919</color>
+    <color name="windroid_tile">#262626</color>
+    <color name="windroid_border">#373737</color>
+    <color name="windroid_primary_text">#F5F5F5</color>
+    <color name="windroid_secondary_text">#ABABAB</color>
+    <color name="windroid_danger">#FF8D92</color>
+    <color name="windroid_accent">#F5F5F5</color>
+    <color name="windroid_on_accent">#171717</color>
+    <color name="windroid_accent_tile">#E2E2E2</color>
+    <color name="windroid_accent_secondary">#4F4F4F</color>
+    <color name="windroid_dialog_surface">#202020</color>
+    <color name="windroid_dialog_outline">#333333</color>
+    <color name="windroid_control_highlight">#24FFFFFF</color>
+    <bool name="windroid_light_system_bars">false</bool>
+</resources>

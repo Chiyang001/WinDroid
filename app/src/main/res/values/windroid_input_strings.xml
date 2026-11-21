@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wd_input_preferences">操作偏好</string>
+    <string name="windroid_input_pointer_mode">鼠标指针</string>
+    <string name="windroid_input_direct">直接触控</string>
+    <string name="windroid_input_direct_detail">点按或双击，指针移到手指位置并执行左键操作。</string>
+    <string name="windroid_input_trackpad">模拟触控板</string>
+    <string name="windroid_input_trackpad_detail">滑动移动指针，点按或双击执行左键。长按后拖动可框选或移动项目。</string>
+    <string name="windroid_input_long_press">单指长按可右键，模拟触控板需原地松手。</string>
+    <string name="windroid_input_left_button">左键</string>
+    <string name="windroid_input_right_button">右键</string>
+    <string name="windroid_input_wheel">虚拟滚轮</string>
+    <string name="windroid_input_show_left_button">显示左键</string>
+    <string name="windroid_input_show_right_button">显示右键</string>
+    <string name="windroid_input_show_wheel">显示滚轮</string>
+    <string name="windroid_input_wheel_detail">上下拖动滚轮中间的滑块可滚动窗口。</string>
+    <string name="windroid_input_move_controls">长按左键、右键或滚轮后，可以拖动它的位置。</string>
+    <string name="windroid_input_scroll_up">向上滚动</string>
+    <string name="windroid_input_scroll_down">向下滚动</string>
+    <string name="windroid_input_done">完成</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="windroid_profile_title">我的</string>
+    <string name="windroid_profile_preferences">偏好设置</string>
+    <string name="windroid_profile_language">应用与 Windows 语言</string>
+    <string name="windroid_profile_theme">外观主题</string>
+    <string name="windroid_profile_system">跟随系统</string>
+    <string name="windroid_profile_language_zh" translatable="false">简体中文</string>
+    <string name="windroid_profile_language_en" translatable="false">English</string>
+    <string name="windroid_profile_theme_light">明亮</string>
+    <string name="windroid_profile_theme_dark">暗黑</string>
+    <string name="windroid_wallpaper_title">Windows 壁纸</string>
+    <string name="windroid_wallpaper_default">默认灰黑壁纸</string>
+    <string name="windroid_wallpaper_custom">自定义照片</string>
+    <string name="windroid_wallpaper_pick">从相册选择</string>
+    <string name="windroid_wallpaper_restore">恢复默认壁纸</string>
+    <string name="windroid_wallpaper_updated">壁纸已更新，下次启动 Windows 时生效。</string>
+    <string name="windroid_wallpaper_save_failed">无法更新壁纸，请重试或选择另一张照片。</string>
+    <string name="windroid_wallpaper_picker_unavailable">无法打开相册。</string>
+    <string name="windroid_profile_about">关于软件</string>
+    <string name="windroid_profile_version">版本 %1$s</string>
+    <string name="windroid_profile_about_description">WinDroid 通过 Wine 和 Box64 在 ARM64 Android 设备上运行 x86 和 x64 Windows 程序。你可以从 Windows 桌面打开已安装的软件，也可以从手机导入 EXE 运行安装向导。</string>
+    <string name="windroid_profile_developer">开发者</string>
+    <string name="windroid_profile_developer_name" translatable="false">炽阳001</string>
+    <string name="windroid_profile_developer_handle" translatable="false">\@Chiyang001</string>
+    <string name="windroid_profile_bilibili">哔哩哔哩主页</string>
+    <string name="windroid_profile_github">GitHub 仓库列表</string>
+    <string name="windroid_profile_back">返回</string>
+    <string name="windroid_profile_cancel">取消</string>
+    <string name="wd_vm_reset">重置虚拟机</string>
+    <string name="wd_vm_reset_message">重置会清除虚拟机里的所有数据，包括已安装的软件、文件、导入的安装包和 Windows 设置，并重新创建虚拟机。</string>
+    <string name="wd_vm_reset_continue">继续</string>
+    <string name="wd_vm_reset_final_title">永久清除虚拟机数据？</string>
+    <string name="wd_vm_reset_final_message">虚拟机中的所有数据都会被永久删除。此操作无法撤销。</string>
+    <string name="wd_vm_reset_erase">清除并重置</string>
+    <string name="wd_vm_reset_close_windows">请先退出正在运行的 Windows，再重置虚拟机。</string>
+    <string name="wd_vm_reset_busy">请等当前操作完成后再试。</string>
+    <string name="wd_vm_resetting">正在重置虚拟机…</string>
+    <string name="wd_vm_reset_done">虚拟机已恢复到初始状态。</string>
+    <string name="wd_vm_reset_failed">虚拟机重置未完成。请到主页点「重试」。</string>
+    <string name="windroid_profile_link_unavailable">没有可打开此链接的应用</string>
+    <string name="windroid_profile_copy_link">复制链接</string>
+</resources>

@@ -1,0 +1,63 @@
+<resources>
+    <color name="windroid_window">#F6F6F6</color>
+    <color name="windroid_surface">#FFFFFF</color>
+    <color name="windroid_tile">#EFEFEF</color>
+    <color name="windroid_border">#DEDEDE</color>
+    <color name="windroid_primary_text">#1A1A1A</color>
+    <color name="windroid_secondary_text">#585858</color>
+    <color name="windroid_danger">#B42328</color>
+    <color name="windroid_accent">#151515</color>
+    <color name="windroid_on_accent">#FAFAFA</color>
+    <color name="windroid_accent_tile">#363636</color>
+    <color name="windroid_accent_secondary">#D7D7D7</color>
+    <color name="windroid_dialog_surface">#FFFFFF</color>
+    <color name="windroid_dialog_outline">#DEDEDE</color>
+    <color name="windroid_control_highlight">#1E000000</color>
+    <bool name="windroid_light_system_bars">true</bool>
+
+    <style name="WinDroidShortcutTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+    </style>
+    <style name="WinDroidTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/windroid_window</item>
+        <item name="colorPrimaryDark">@color/windroid_window</item>
+        <item name="colorAccent">@color/windroid_primary_text</item>
+        <item name="colorControlNormal">@color/windroid_secondary_text</item>
+        <item name="colorControlHighlight">@color/windroid_control_highlight</item>
+        <item name="alertDialogTheme">@style/WinDroidDialogTheme</item>
+        <item name="android:colorBackground">@color/windroid_window</item>
+        <item name="android:windowBackground">@color/windroid_window</item>
+        <item name="android:statusBarColor">@color/windroid_window</item>
+        <item name="android:navigationBarColor">@color/windroid_window</item>
+        <item name="android:windowLightStatusBar">@bool/windroid_light_system_bars</item>
+        <item name="android:windowLightNavigationBar">@bool/windroid_light_system_bars</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+
+    <style name="WinDroidDialogTheme" parent="ThemeOverlay.AppCompat.Dialog.Alert">
+        <item name="android:windowBackground">@drawable/windroid_dialog_panel</item>
+        <item name="android:windowAnimationStyle">@style/WinDroidDialogAnimation</item>
+        <item name="android:windowTitleStyle">@style/WinDroidDialogTitle</item>
+        <item name="android:backgroundDimAmount">0.64</item>
+        <item name="colorBackgroundFloating">@color/windroid_dialog_surface</item>
+        <item name="colorAccent">@color/windroid_primary_text</item>
+        <item name="colorControlHighlight">@color/windroid_control_highlight</item>
+        <item name="android:textColorPrimary">@color/windroid_primary_text</item>
+        <item name="android:textColorSecondary">@color/windroid_secondary_text</item>
+        <item name="textColorAlertDialogListItem">@color/windroid_primary_text</item>
+    </style>
+
+    <style name="WinDroidDialogTitle" parent="android:Widget.TextView">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/windroid_primary_text</item>
+        <item name="android:textSize">21sp</item>
+    </style>
+
+    <style name="WinDroidDialogAnimation" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/windroid_dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/windroid_dialog_exit</item>
+    </style>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wd_nav_store">Store</string>
+    <string name="wd_store_search">Search apps, publishers or keywords</string>
+    <string name="wd_store_clear">Clear search</string>
+    <string name="wd_store_count">%1$,d Windows apps</string>
+    <string name="wd_store_all">All</string>
+    <string name="wd_store_productivity">Productivity</string>
+    <string name="wd_store_creative">Design</string>
+    <string name="wd_store_media">Media</string>
+    <string name="wd_store_internet">Internet</string>
+    <string name="wd_store_development">Development</string>
+    <string name="wd_store_utilities">Utilities</string>
+    <string name="wd_store_games">Games</string>
+    <string name="wd_store_other">Other</string>
+    <string name="wd_store_featured">Featured apps</string>
+    <string name="wd_store_hero_label">Featured · %1$s</string>
+    <string name="wd_store_view">View app →</string>
+    <string name="wd_store_loading">Reading the app catalog…</string>
+    <string name="wd_store_catalog_error">Could not read the app catalog.</string>
+    <string name="wd_store_results">%1$,d apps</string>
+    <string name="wd_store_empty">No matching apps. Try another search or category.</string>
+    <string name="wd_store_previous">Previous</string>
+    <string name="wd_store_next">Next</string>
+    <string name="wd_store_position">%1$d / %2$d</string>
+    <string name="wd_store_source">Catalog from the WinGet Community repository</string>
+    <string name="wd_store_version">%1$s · %2$s</string>
+    <string name="wd_store_architecture">Installer</string>
+    <string name="wd_store_neutral">Universal</string>
+    <string name="wd_store_installer_type">%1$s · %2$s</string>
+    <string name="wd_store_download_host">Catalog download source %1$s</string>
+    <string name="wd_store_first_host">Tries %1$s first</string>
+    <string name="wd_store_route">Download route</string>
+    <string name="wd_store_route_label">Download route · %1$s</string>
+    <string name="wd_store_route_mirrors">Prefer mirrors for China</string>
+    <string name="wd_store_route_original">Original source only</string>
+    <string name="wd_store_compatibility">The installer opens in WinDroid after the download. Compatibility varies by app.</string>
+    <string name="wd_store_install">Download and install</string>
+    <string name="wd_store_downloading">Downloading the Windows installer…</string>
+    <string name="wd_store_connecting">Trying %1$s…</string>
+    <string name="wd_store_download_progress">Downloading via %1$s · %2$d%%</string>
+    <string name="wd_store_cancelling">Cancelling download…</string>
+    <string name="wd_store_download_error">Download failed. Check your connection and retry.</string>
+    <string name="wd_store_server_error">The download server could not provide this installer.</string>
+    <string name="wd_store_checksum_error">The installer did not match the catalog checksum.</string>
+</resources>

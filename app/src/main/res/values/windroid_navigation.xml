@@ -1,0 +1,8 @@
+<resources>
+    <item name="windroid_home_scroll" type="id" />
+    <item name="windroid_software_scroll" type="id" />
+    <item name="windroid_my_scroll" type="id" />
+    <item name="windroid_about_scroll" type="id" />
+    <item name="windroid_store_scroll" type="id" />
+    <item name="windroid_store_search" type="id" />
+</resources>

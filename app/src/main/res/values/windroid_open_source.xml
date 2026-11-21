@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wd_oss_title">开源组件</string>
+    <string name="wd_oss_runtime">运行环境</string>
+    <string name="wd_oss_graphics">图形与兼容层</string>
+    <string name="wd_oss_android">Android 库与字体</string>
+    <string name="wd_oss_collapsed">已折叠</string>
+    <string name="wd_oss_expanded">已展开</string>
+    <string name="wd_oss_winlator">运行环境与部分 Android 代码的上游项目</string>
+    <string name="wd_oss_wine">运行 Windows 程序的兼容层，随包提供 Winlator 定制构建</string>
+    <string name="wd_oss_box64">在 ARM64 上运行 x86-64 程序的指令转换组件</string>
+    <string name="wd_oss_glibc">运行环境使用的 GNU C 库移植补丁</string>
+    <string name="wd_oss_mesa">Turnip、Zink 和 VirGL 图形组件</string>
+    <string name="wd_oss_dxvk">将 Direct3D 调用转换为 Vulkan</string>
+    <string name="wd_oss_d7vk">早期 Direct3D 接口的 Vulkan 实现</string>
+    <string name="wd_oss_d8vk">Direct3D 8 到 Vulkan 的转换层</string>
+    <string name="wd_oss_vkd3d">Direct3D 12 到 Vulkan 的转换层</string>
+    <string name="wd_oss_ddraw">经典 2D 软件的 DirectDraw 兼容层</string>
+    <string name="wd_oss_androidx">Android 界面兼容、设置与生命周期库</string>
+    <string name="wd_oss_material">Android Material 界面组件</string>
+    <string name="wd_oss_compress">读取运行环境使用的归档文件</string>
+    <string name="wd_oss_xz">XZ 压缩数据读写</string>
+    <string name="wd_oss_zstd">Java 中的 Zstandard 压缩支持</string>
+    <string name="wd_oss_noto">Windows 程序的简体中文回退字体</string>
+</resources>
