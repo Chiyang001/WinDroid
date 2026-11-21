@@ -1,4 +1,4 @@
-<p align="center"><img src="./design/windroid-launcher.svg" alt="WinDroid 启动图标" height="64" align="middle"> &emsp;│&emsp; <a href="https://github.com/Chiyang001"><img src="./design/developer-logo.svg" alt="炽小阳开发者标志" height="64" align="middle"></a></p>
+<p align="center"><img src="./design/windroid-launcher.svg" alt="WinDroid 启动图标" width="112" height="112" align="middle"> &emsp;│&emsp; <a href="https://github.com/Chiyang001"><img src="./design/developer-logo-square.svg" alt="炽阳001开发者标志" width="112" height="112" align="middle"></a></p>
 
 <h1 align="center">WinDroid</h1>
 
@@ -103,6 +103,6 @@ Gradle 会生成 `app/build/outputs/apk/release/app-release-unsigned.apk`。使�
 
 ## 开发者与致谢
 
-**炽小阳 · Chiyang001** · [GitHub](https://github.com/Chiyang001) · [哔哩哔哩](https://space.bilibili.com/404891612)
+**炽阳001** · [GitHub](https://github.com/Chiyang001) · [哔哩哔哩](https://space.bilibili.com/404891612)
 
 WinDroid 基于 Bruno D. 和贡献者开发的 Winlator，并使用 Wine、Box64 等开源组件。[项目许可证](./LICENSE) · [第三方组件与来源](./THIRD_PARTY_NOTICES.md)
